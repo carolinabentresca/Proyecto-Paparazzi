@@ -1,6 +1,6 @@
 ## Simulador de Paparazzi
-## Java Web / SpringMVC / BootStrap 4.5
-### Protagonistas del #WandaGate
+### Proyecto Java Web / SpringMVC / BootStrap 4.5
+- #### Protagonistas del #WandaGate
 
 ![Welcome - Internet Explorer 25_10_2021 19_48_07](https://user-images.githubusercontent.com/88462536/138784029-cc8e1c45-e98a-4686-8b56-b9aff34b0c63.png)
 
